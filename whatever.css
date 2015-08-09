@@ -1,0 +1,27 @@
+div{
+	background-color: blue; 
+	width;200px;
+	padding:20px; border-radius:30px; 
+	font-family:Times New Roman;
+	border-color: green; 
+	border-style:solid;
+    border-width:10px;
+}
+
+img{
+	position:relative;
+	-webkit-animation: fancy-picture 5s infinite alternate;
+}
+
+@-webkit-keyframes fancy-picture 
+{
+	0%{
+		left: 0px;
+		margin-left:0px;
+	}
+
+	100%{
+		left: 100%;
+		margin-left:-225px;
+	}
+}
