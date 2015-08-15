@@ -10,7 +10,7 @@ div{
 
 img{
 	position:relative;
-	-webkit-animation: fancy-picture 5s infinite alternate;
+	-webkit-animation: fancy-picture 3s infinite alternate;
 }
 
 @-webkit-keyframes fancy-picture 
