@@ -1,11 +1,22 @@
 div{
 	background-color: blue; 
-	width;200px;
-	padding:20px; border-radius:30px; 
+	padding:20px; 
+	border-radius:30px; 
 	font-family:Times New Roman;
 	border-color: green; 
 	border-style:solid;
     border-width:10px;
+}
+
+.myheader {
+	text-shadow:3px 3px white;
+	color: #FF0000;
+}
+
+.buffer {
+	background-color: green; 
+	padding: 5px; 
+	border-radius:30px;"
 }
 
 img{
